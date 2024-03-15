@@ -4,7 +4,7 @@ The DeAI Pioneers' Workshop is a series of free, high-quality courses launched f
 # Learn to Earn    
 ## Class 1: ECM 开发工具与资源介绍 (奖学金：$15)
 
-> 本课程参考资料请见 Docs/class1 目录
+> 本课程参考资料请见 [docs/class1](https://github.com/openbuildxyz/emc-deai-workshop/tree/main/docs/class1) 目录
 
 1. 注册 EMC Hub 账号，提供截图和注册的邮箱地址（考虑到隐私问题，可以将邮箱的前 3 位或邮箱域名部分马赛克）
 https://emchub.ai/#/home
